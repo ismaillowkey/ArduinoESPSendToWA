@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-#define SERVER_IP "http://wa.ismaillowkey.net"
+#define SERVER_IP "http://wa.ismaillowkey.my.id"
 #define PHONENO "62xxxx" // NO wa yang ingin dikirim pesan
 
 //Provide your own WiFi credentials
